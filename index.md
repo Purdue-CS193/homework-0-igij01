@@ -1,8 +1,8 @@
 ## Welcome to Yulin's First CS193 Homework
 
--Use Github! (best website **ever**)
--**no** exams
--_friendly_ instructors and TAs
+- Use Github! (best website **ever**)
+- **no** exams
+- _friendly_ instructors and TAs
 
 ### Markdown
 
